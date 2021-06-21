@@ -1,2 +1,2 @@
 # Tech-Store-Landing-Page
-This project it's a landing page about Tech Store
+Hello, This project is a Landing page about Tech Store
